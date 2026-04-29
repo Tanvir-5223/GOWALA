@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Node modules (if used later)
+node_modules/
+
+# Build output
+dist/
+build/
