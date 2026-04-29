@@ -1,1 +1,1 @@
-Gowala is a responsive front-end web application. 
+Gowala is a responsive front-end web application.This platfrom is 
