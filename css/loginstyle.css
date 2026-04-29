@@ -3,16 +3,17 @@
 
 * {
 	box-sizing: border-box;
+
 }
 
 body {
-	background: #f6f5f7;
+	background: #e3dfe8;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 	font-family: 'Montserrat', sans-serif;
-	height: 100vh;
+	height: 120vh;
 	margin: -20px 0 50px;
 }
 
@@ -39,14 +40,14 @@ span {
 
 a {
 	color: #333;
-	font-size: 14px;
+	font-size: 16px;
 	text-decoration: none;
 	margin: 15px 0;
 }
 
 button {
 	border-radius: 20px;
-	border: 1px solid #FFAE42 ;
+	border: 1px solid #f79a20 ;
 	background-color: #FFAE42 ;
 	color: #FFFFFF;
 	font-size: 12px;
